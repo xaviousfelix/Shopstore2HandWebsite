@@ -1,5 +1,8 @@
 หน้าตาของเว็บไซต์
-
+เว็บไซต์ถูกสร้าง โดย Visual Studio Code Editor
+ejs //หน้าบ้าน
+js //หลังบ้าน
+css //เสริมแต่ง
 ![image](https://github.com/xaviousfelix/Shopstore2Handdd/assets/118479639/cb26e85a-d125-4631-a428-ffc23d8b294f)
 ![image](https://github.com/xaviousfelix/Shopstore2Handdd/assets/118479639/34dc7a1d-60c9-4f5a-8df6-6e72dd10092c)
 ![image](https://github.com/xaviousfelix/Shopstore2Handdd/assets/118479639/330361e8-6aef-4d10-b915-091e63e202b1)
